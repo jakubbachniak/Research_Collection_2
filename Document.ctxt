@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=title\ author\ publisher\ date\ issn
+comment0.target=Document(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ Document\r\n
+comment1.params=
+comment1.target=java.lang.String\ getTitle()
+comment1.text=\r\n\ Return\ title\ of\ document\r\n
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+comment2.text=\r\n\ Return\ author\ of\ document\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPublisher()
+comment3.text=\r\n\ Return\ publisher\ of\ document\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDate()
+comment4.text=\r\n\ Return\ date\ published\r\n
+comment5.params=
+comment5.target=java.lang.String\ getIssn()
+comment5.text=\r\n\ Return\ issn\r\n
+comment6.params=
+comment6.target=void\ printDocumentInfo()
+comment6.text=\r\n\ Print\ document\ information\r\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ResearchCollection()
+comment0.text=\r\n\ Constructor\ method\ for\ creating\ an\ instance\ of\ ResearchDatabase\r\n
+comment1.params=title\ author\ publisher\ date\ issn
+comment1.target=void\ addToCollection(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Add\ new\ document\ category\ collection\r\n\ @param\ document\ title\r\n\ @param\ document\ author(s)\r\n\ @param\ document\ publisher\r\n\ @param\ document\ date\ published\r\n\ @param\ document\ issn;\ if\ no\ issn\ provide\ empty\ string\ ""\r\n
+comment2.params=containing
+comment2.target=void\ removeContainingFrom(java.lang.String)
+comment2.text=\r\n\ Remove\ document,\ from\ specified\ collection,\ whose\r\n\ title\ contains\ specified\ string\r\n\ @param\ String\ phrase\ to\ search\ in\ the\ title\r\n\ of\ a\ document\ to\ be\ removed\ \r\n
+comment3.params=collection
+comment3.target=void\ listCollection(java.lang.String)
+comment3.text=\r\n\ List\ all\ document\ in\ specified\ collection\r\n\ @param\ String\ collection\r\n
+comment4.params=collection
+comment4.target=void\ numberDocuments(java.lang.String)
+comment4.text=\r\n\ Print\ number\ of\ documents\ in\ \ the\ specified\ collection\r\n\ @param\ String\ programming\ pardigm\ category\ in\ the\ database\r\n
+numComments=5

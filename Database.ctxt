@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Database()
+comment0.text=\r\n\ Create\ new\ database\r\n
+comment1.params=category
+comment1.target=void\ addCategory(java.lang.String)
+comment1.text=\r\n\ create\ new\ programming\ paradigm\ category\ and\ the\ collection\ in\ the\ database\r\n
+comment2.params=
+comment2.target=java.lang.String[]\ getParadigmStrings()
+comment2.text=\r\n\ get\ Array\ of\ String\ names\ for\ programming\ pardigms\ collections\r\n
+comment3.params=paradigmCategory
+comment3.target=ResearchCollection\ getCollection(java.lang.String)
+comment3.text=\r\n\ get\ researchCollection\ for\ specified\ String\ programming\r\n\ paradigm\ category\r\n\ @param\ String\ programming\ paradigm\ category\ in\ database\r\n\ @return\ ResearchCollection\ collection\ of\ documents\r\n\ mapped\ for\ specified\ key\r\n
+numComments=4
